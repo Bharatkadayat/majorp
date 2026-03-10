@@ -1,0 +1,62 @@
+{
+  "admin": {
+    "0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266": {
+      "displayName": "Bharat BAHADUR kadayat",
+      "walletAddress": "0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266",
+      "updatedAt": "2026-03-09T15:29:29.689Z",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": "",
+      "location": "",
+      "website": "",
+      "bio": "",
+      "department": "",
+      "employeeId": "",
+      "adminLevel": "Super Admin",
+      "avatarUrl": "https://gateway.pinata.cloud/ipfs/bafybeib3fmqpnojpl5gadz5mrckeqd5tcqc7sa5caod224xcexzgi3ctue"
+    }
+  },
+  "institute": {
+    "0x70997970c51812dc3a010c7d01b50e0d17dc79c8": {
+      "displayName": "BHARAT",
+      "email": "",
+      "phone": "+1 (555) 000-0000",
+      "location": "",
+      "website": "",
+      "bio": "",
+      "avatarUrl": "https://gateway.pinata.cloud/ipfs/bafybeic5ka5byvajtykwbykxi2pkkeiyn5sf5iafgpzr4c2cuawertgmb4",
+      "supportEmail": "",
+      "walletAddress": "0x70997970c51812dc3a010c7d01b50e0d17dc79c8",
+      "updatedAt": "2026-03-10T17:01:08.247Z"
+    }
+  },
+  "student": {
+    "0x976ea74026e726554db657fa54763abd0c3a0aa9": {
+      "displayName": "",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": "",
+      "location": "",
+      "website": "",
+      "bio": "",
+      "avatarUrl": "https://gateway.pinata.cloud/ipfs/bafybeifd6nhblfequvuynwdtpv6ap4li5jzyyepbtqbdljxrqcq2fakqma",
+      "walletAddress": "0x976ea74026e726554db657fa54763abd0c3a0aa9",
+      "updatedAt": "2026-03-09T20:27:27.323Z"
+    },
+    "0x14dc79964da2c08b23698b3d3cc7ca32193d9955": {
+      "displayName": "",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": "",
+      "location": "",
+      "website": "",
+      "bio": "",
+      "avatarUrl": "https://gateway.pinata.cloud/ipfs/bafybeib3fmqpnojpl5gadz5mrckeqd5tcqc7sa5caod224xcexzgi3ctue",
+      "walletAddress": "0x14dc79964da2c08b23698b3d3cc7ca32193d9955",
+      "updatedAt": "2026-03-09T20:51:48.194Z"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "institutes": {
+    "0x70997970c51812dc3a010c7d01b50e0d17dc79c8": [
+      {
+        "name": "Bharat Bahadur Kadayat",
+        "studentId": "1by23ai028",
+        "walletAddress": "0x976ea74026e726554db657fa54763abd0c3a0aa9",
+        "email": "",
+        "department": "AIML",
+        "section": "A",
+        "semester": "5th",
+        "batchYear": "2023"
+      },
+      {
+        "name": "RAMESH SHA",
+        "studentId": "1by23ai130",
+        "walletAddress": "0x14dc79964da2c08b23698b3d3cc7ca32193d9955",
+        "email": "",
+        "department": "AIML",
+        "section": "A",
+        "semester": "5th",
+        "batchYear": "2023"
+      }
+    ],
+    "0x3c44cdddb6a900fa2b585dd299e03d12fa4293bc": [
+      {
+        "name": "Bharat Bhadaur Kadayat",
+        "studentId": "1by23ai028",
+        "walletAddress": "0x976ea74026e726554db657fa54763abd0c3a0aa9",
+        "email": "",
+        "department": "AIML",
+        "section": "A",
+        "semester": "1st",
+        "batchYear": "2026"
+      }
+    ]
+  }
+}

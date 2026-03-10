@@ -1,0 +1,38 @@
+{
+  "heroTitle": "Academic Credential Verification Platform",
+  "heroSubtitle": "Issue, store, and verify tamper-proof academic certificates on blockchain with IPFS-backed documents.",
+  "aboutText": "This platform enables trusted digital certificate management for institutes, students, and verifiers with role-based workflows.",
+  "guide": {
+    "name": "Dr HemaMalini B H",
+    "title": "Project Guide",
+    "imageUrl": "",
+    "bio": ""
+  },
+  "team": [
+    {
+      "name": "Bharat Bahadur Kadayat",
+      "role": "Student Developer",
+      "email": "1by23ai028@bmsit.in",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/bafybeib3fmqpnojpl5gadz5mrckeqd5tcqc7sa5caod224xcexzgi3ctue"
+    },
+    {
+      "name": "Darshan A B",
+      "role": "Student Developer",
+      "email": "",
+      "imageUrl": ""
+    },
+    {
+      "name": "Gaurav Nayak K",
+      "role": "Student Developer",
+      "email": "",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/bafybeigyzq6jvc3ujlpyczlloipvuhrgv6jbwydhhzuvpg7qnvpiry3eqm"
+    },
+    {
+      "name": "Harsha Patil",
+      "role": "Student Developer",
+      "email": "",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/bafybeic5ka5byvajtykwbykxi2pkkeiyn5sf5iafgpzr4c2cuawertgmb4"
+    }
+  ],
+  "updatedAt": "2026-03-10T17:16:25.943Z"
+}

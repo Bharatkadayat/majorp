@@ -1,0 +1,9 @@
+await c.owner()
+const c = await ethers.getContractAt("CertificateStorage", a)
+await ethers.provider.getCode(a)
+const a = "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+.exit
+exit
+Get-NetTCPConnection -LocalPort 8545 -State Listen | Select-Object -ExpandProperty OwningProcess | ForEach-Object { Stop-Process -Id $_ -Force }
+await c.owner()
+const c = await ethers.getContractAt("CertificateStorage","0x5FbDB2315678afecb367f032d93F642f64180aa3")
